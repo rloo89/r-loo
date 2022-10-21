@@ -1,10 +1,8 @@
-# Hello there! I'm Robert! :smile:
+# Hello there! Robert here! :smile:
 
-I am a business development and project manager turned full stack developer. I am passionate about creating technical solutions that addresses the needs of businesses and customer pain points.
-
-- I am actively looking to transition into the tech industry as a full-stack web developer 💡
-- Currently polishing my skillset and learning new frameworks by applying them into small projects. :white_check_mark:
-- Please also feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/robert-loo/) :atom:
+- I was once in the business development and project management universe; now aspiring to work as a full-stack developer.  💡
+- Currently polishing my skillsets while learning new frameworks by applying them to small projects. :white_check_mark:
+- I can also be reached via [LinkedIn](https://www.linkedin.com/in/robert-loo/) :atom:
 
 
 ## My Tech Stack :heavy_check_mark:
