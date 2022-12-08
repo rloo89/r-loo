@@ -1,6 +1,6 @@
 # Hello there! Robert here! :smile:
 
-- I am a full-stack software engineer with experience in Business development and project management.  💡
+- I am a full-stack software engineer with experience in Business development and Project Management.  💡
 - Currently polishing my skillsets while learning new frameworks by applying them to small projects. :white_check_mark:
 - I can also be reached via [LinkedIn](https://www.linkedin.com/in/robert-loo/) :atom:
 
